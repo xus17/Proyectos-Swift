@@ -1,0 +1,6 @@
+framework module Pods_FBTableView {
+  umbrella header "Pods-FBTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}
